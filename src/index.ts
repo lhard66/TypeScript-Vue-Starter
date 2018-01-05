@@ -1,4 +1,5 @@
 import Vue from "vue";
+// 导入自定义组件
 import HelloComponent from "./components/Hello.vue";
 
 let v = new Vue({

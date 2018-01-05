@@ -10,6 +10,7 @@
 <script lang="ts">
 import Vue from "vue";
 
+// 默认输出一个Vue的子类
 export default Vue.extend({
     props: ['name', 'initialEnthusiasm'],
     data() {
